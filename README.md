@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Halil Sen
 - 👀 I’m interested in coding software systems on web and mobile devices.
 - 🌱 I’m currently learning Android and Wordpress
-- 📫 How to reach me style93@gmail.com
+- 📫 How to reach me dev.halilsen@gmail.com
 - ✨ Check out my coding website [KodlamayaBasla](https://kodlamayabasla/)
 
 <!---
